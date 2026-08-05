@@ -6,16 +6,16 @@
 
     <url>
         <loc>https://www.weetop.my.id/</loc>
-        <lastmod>2026-08-05</lastmod>
+        <lastmod>2026-08-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
-
+        
     <url>
-        <loc>https://www.weetop.my.id/topup-weelife-murah</loc>
-        <lastmod>2026-08-05</lastmod>
+        <loc>https://www.weetop.my.id/rechargePage</loc>
+        <lastmod>2026-08-06</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
     </url>
 
 </urlset>
